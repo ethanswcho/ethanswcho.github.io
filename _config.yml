@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Ethan Cho
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Software Engineer from Vancouver, Canada. Attentive to detail and strives to write clean, efficient code.'
 
 author:
   name:           'Mark Otto'
@@ -20,12 +20,10 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-urls:
-  site:           http://ethanswcho.github.io
-  github:         https://github.com/poole/hyde
-  linkedin:       https://www.linkedin.com/in/ethanswcho
+site:           http://ethanswcho.github.io
+github:         https://github.com/poole/hyde
+linkedin:       https://www.linkedin.com/in/ethanswcho
 
-projects:
-  blackjack:      https://github.com/ethanswcho/BlackJack
-  kanjitester:    https://github.com/ethanswcho/KanjiTester
-  stockalert:     https://github.com/ethanswcho/StockAlert
+blackjack:      https://github.com/ethanswcho/BlackJack
+kanjitester:    https://github.com/ethanswcho/KanjiTester
+stockalert:     https://github.com/ethanswcho/StockAlert

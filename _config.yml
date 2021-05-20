@@ -22,8 +22,9 @@ paginate:         5
 version:          2.1.0
 
 url:          http://ethanswcho.github.io
-github:       https://github.com/poole/hyde
+github:       https://github.com/ethanswcho
 linkedin:     https://www.linkedin.com/in/ethanswcho
+resume:       https://drive.google.com/file/d/17llcBUtLCYRseL9-Efzjhn8J4A6If9IV/view
 
 blackjack:    https://github.com/ethanswcho/BlackJack
 kanjitester:  https://github.com/ethanswcho/KanjiTester

@@ -11,6 +11,7 @@ title:            Ethan Cho
 tagline:          'A Jekyll theme'
 description:      'Software Engineer from Vancouver, Canada. Attentive to detail and strives to write clean, efficient code.'
 
+
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
@@ -20,10 +21,11 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-site:           http://ethanswcho.github.io
-github:         https://github.com/poole/hyde
-linkedin:       https://www.linkedin.com/in/ethanswcho
+site:
+  url:          http://ethanswcho.github.io
+  github:       https://github.com/poole/hyde
+  linkedin:     https://www.linkedin.com/in/ethanswcho
 
-blackjack:      https://github.com/ethanswcho/BlackJack
-kanjitester:    https://github.com/ethanswcho/KanjiTester
-stockalert:     https://github.com/ethanswcho/StockAlert
+  blackjack:    https://github.com/ethanswcho/BlackJack
+  kanjitester:  https://github.com/ethanswcho/KanjiTester
+  stockalert:   https://github.com/ethanswcho/StockAlert

@@ -1,9 +1,23 @@
 ---
 layout: post
-title: Introducing Hyde
+title: About Me
 ---
+Welcome to my homepage!
+I am Ethan Cho, a software engineer from Vancouver, BC, Canada.
+I recently graduated from University of British Columbia with Bachelor of Science in Computer Science.
+I am currently looking for full-time opportunities.
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+### Skills
+* Programming Languages: Python, Java, C#, C++, C, JavaScript, TypeScript, Racket ASL, Assembly
+* Add-ons: Node, Mocha, Yarn, JUnit, jQuery, JSON, REST< Karma, WPF
+* Database: MySQL, JDBC
+* Machine Learning: KNN, Decision Trees, Linear/Logistic Regression, SVM, Random Forest, Naive Bayes, Neural Networks
+* Languages: Bilingual proficiency in English and Korean; Advanced Japanese
+
+### Work Experience
+* 2019 October - 2020 March: Software Engineer Intern @ KPMG Ignition
+* 2017 September - 2018 December: Sales Associate @ United Parcel Service
+* 2015 September - 2017 July: Private Math Tutor
 
 ### Built on Poole
 

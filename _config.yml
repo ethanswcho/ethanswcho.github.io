@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:            Ethan Cho
-#tagline:          
+#tagline:
 description:      'Software Engineer from Vancouver, Canada. Attentive to detail and strives to write clean, efficient code.'
 
 
@@ -22,6 +22,7 @@ paginate:         5
 version:          2.1.0
 
 url:          http://ethanswcho.github.io
+projects:     http://ethanswcho.github.io/projects
 github:       https://github.com/ethanswcho
 linkedin:     https://www.linkedin.com/in/ethanswcho
 resume:       https://drive.google.com/file/d/1qQMBLl4_2uDHtDsP1UyfOWiAtcL81o65/view?usp=sharing

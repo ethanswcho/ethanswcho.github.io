@@ -8,16 +8,16 @@ I recently graduated from University of British Columbia with Bachelor of Scienc
 I am currently looking for full-time opportunities.
 
 ### Skills
-* Programming Languages: Python, Java, C#, C++, C, JavaScript, TypeScript, Racket ASL, Assembly
-* Add-ons: Node, Mocha, Yarn, JUnit, jQuery, JSON, REST< Karma, WPF
-* Database: MySQL, JDBC
-* Machine Learning: KNN, Decision Trees, Linear/Logistic Regression, SVM, Random Forest, Naive Bayes, Neural Networks
-* Languages: Bilingual proficiency in English and Korean; Advanced Japanese
+* **Programming Languages**: Python, Java, C#, C++, C, JavaScript, TypeScript, Racket ASL, Assembly
+* **Add-ons**: Node, Mocha, Yarn, JUnit, jQuery, JSON, REST, Karma, WPF
+* **Database**: MySQL, JDBC
+* **Machine Learning**: KNN, Decision Trees, Linear/Logistic Regression, SVM, Random Forest, Naive Bayes, Neural Networks
+* **Languages**: Bilingual proficiency in English and Korean; Advanced Japanese
 
 ### Work Experience
-* 2019 October - 2020 March: Software Engineer Intern @ KPMG Ignition
-* 2017 September - 2018 December: Sales Associate @ United Parcel Service
-* 2015 September - 2017 July: Private Math Tutor
+* **2019 Oct - 2020 Mar**: Software Engineer Intern @ KPMG Ignition
+* **2017 Sep - 2018 Dec**: Sales Associate @ United Parcel Service
+* **2015 Sep - 2017 Jul**: Private Math Tutor
 
 ### Built on Poole
 

@@ -19,7 +19,7 @@ I am currently looking for full-time opportunities.
 * **2017 Sep - 2018 Dec**: Sales Associate @ United Parcel Service
 * **2015 Sep - 2017 Jul**: Private Math Tutor
 
-For more information about my technical skills, please check out my [resume]("https://drive.google.com/file/d/1qQMBLl4_2uDHtDsP1UyfOWiAtcL81o65/view") and [projects](https://ethanswcho.github.io/projects)
+For more information about my technical skills, please check out my [resume](https://drive.google.com/file/d/1qQMBLl4_2uDHtDsP1UyfOWiAtcL81o65/view) and [projects](https://ethanswcho.github.io/projects)
 
 ### Built on Poole
 

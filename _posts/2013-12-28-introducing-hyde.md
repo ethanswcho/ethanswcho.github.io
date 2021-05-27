@@ -22,18 +22,18 @@ I am currently looking for full-time opportunities.
 <!--For more information about my technical skills, please check out my [resume](https://drive.google.com/file/d/1qQMBLl4_2uDHtDsP1UyfOWiAtcL81o65/view) and [projects](https://ethanswcho.github.io/projects)-->
 
 ### Projects
-**BlackJack1**
-![BlackJack](https://github.com/ethanswcho/ethanswcho.github.io/blob/master/_posts/imgs/blackjack.jpg "Hello")
+**BlackJack**
+![BlackJack](https://i.lensdump.com/i/ZAjxov.jpg "BlackJack")
 * Android application built with Java and Android Studio to play a classic game of BlackJack on the go.
 * Demonstrates in-depth understanding of object oriented programming principles.
 * Features robust in-game logic that supports all possible player moves.
 
 **Kanji Tester**
-![Kanji Tester](https://i.lensdump.com/i/ZAjwm2.png)
+![Kanji Tester](https://i.lensdump.com/i/ZAjwm2.png "Kanji Tester")
 * Desktop application built with Python to learn and test users' knowledge of Japanese Kanjis.
 * Kanjis are sorted by JLPT levels to help users prepare for their JLPT exams.
 
 **Stock Alert**
-![Stock Alert](https://github.com/ethanswcho/ethanswcho.github.io/master/_posts/imgs/stockalert.png)
+![Stock Alert](https://i1.lensdump.com/i/ZAj58C.png "Stock Alert")
 * Desktop application built with C# and WPF to help people in lower mainland secure their GPUs for retail price.
 * Scrape the websites of local computer shops and alert users when user-selected models are in stock.

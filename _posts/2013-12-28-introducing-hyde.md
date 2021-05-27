@@ -5,7 +5,7 @@ title: About Me
 Welcome to my homepage! <br />
 I am Ethan Cho, a software engineer from Vancouver, BC, Canada. <br />
 I recently graduated from University of British Columbia with Bachelor of Science in Computer Science. <br />
-I am currently looking for full-time opportunities.
+I am currently seeking full-time opportunities.
 
 ### Skills
 * **Programming Languages**: Python, Java, C#, C++, C, JavaScript, TypeScript, Racket ASL, Assembly

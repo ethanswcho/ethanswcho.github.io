@@ -23,7 +23,8 @@ I am currently looking for full-time opportunities.
 
 ### Projects
 **BlackJack**
-![BlackJack](https://i.lensdump.com/i/ZAjxov.jpg "BlackJack")
+<img src="https://i.lensdump.com/i/ZAjxov.jpg" alt="BlackJack" width="300"/>
+<!--![BlackJack](https://i.lensdump.com/i/ZAjxov.jpg "BlackJack")-->
 * Android application built with Java and Android Studio to play a classic game of BlackJack on the go.
 * Demonstrates in-depth understanding of object oriented programming principles.
 * Features robust in-game logic that supports all possible player moves.

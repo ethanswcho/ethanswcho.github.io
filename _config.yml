@@ -12,18 +12,20 @@ title:            Ethan Cho
 description:      'Software Engineer from Vancouver, Canada. Attentive to detail and strives to write clean, efficient code.'
 
 
+
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
 paginate:         5
 
-baseurl:      https://ethanswcho.github.io/
+
 
 # Custom vars
 version:          2.1.0
 
 url:          http://ethanswcho.github.io
+baseurl:      /
 projects:     http://ethanswcho.github.io/projects
 github:       https://github.com/ethanswcho
 linkedin:     https://www.linkedin.com/in/ethanswcho

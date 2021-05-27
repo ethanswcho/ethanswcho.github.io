@@ -22,7 +22,7 @@ I am currently looking for full-time opportunities.
 <!--For more information about my technical skills, please check out my [resume](https://drive.google.com/file/d/1qQMBLl4_2uDHtDsP1UyfOWiAtcL81o65/view) and [projects](https://ethanswcho.github.io/projects)-->
 
 ### Projects
-**BlackJack1**
+**BlackJack**
 ![BlackJack](https://github.com/ethanswcho/ethanswcho.github.io/master/_posts/imgs/blackjack.jpg)
 Android application built with Java and Android Studio to play a classic game of BlackJack on the go.
 Demonstrates in-depth understanding of object oriented programming principles.

@@ -1,17 +1,17 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            Ethan Cho
+#tagline:
+description:      'Software Engineer from Vancouver, Canada. Attentive to detail and strives to write clean, efficient code.'
+
+
 
 author:
   name:           'Mark Otto'
@@ -19,8 +19,18 @@ author:
 
 paginate:         5
 
+
+
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+url:          http://ethan-cho.com
+baseurl:      /
+projects:     http://ethanswcho.github.io/projects
+github:       https://github.com/ethanswcho
+linkedin:     https://www.linkedin.com/in/ethanswcho
+resume:       https://drive.google.com/file/d/1qQMBLl4_2uDHtDsP1UyfOWiAtcL81o65/view?usp=sharing
+
+blackjack:    https://github.com/ethanswcho/BlackJack
+kanjitester:  https://github.com/ethanswcho/KanjiTester
+stockalert:   https://github.com/ethanswcho/StockAlert

@@ -18,6 +18,8 @@ author:
 
 paginate:         5
 
+baseurl:      https://ethanswcho.github.io/
+
 # Custom vars
 version:          2.1.0
 

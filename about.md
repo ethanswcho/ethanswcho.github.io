@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Projects
+**[BlackJack](https://github.com/ethanswcho/BlackJack)**
+<img src="https://i.lensdump.com/i/ZAjxov.jpg" alt="BlackJack" width="300"/>
+<!--![BlackJack](https://i.lensdump.com/i/ZAjxov.jpg "BlackJack")-->
+* Android application built with Java and Android Studio to play a classic game of BlackJack on the go.
+* Demonstrates in-depth understanding of object oriented programming principles.
+* Features robust in-game logic that supports all possible player moves.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**[Kanji Tester](https://github.com/ethanswcho/KanjiTester)**
+![Kanji Tester](https://i.lensdump.com/i/ZAjwm2.png "Kanji Tester")
+* Desktop application built with Python to help users learn and test their knowledge of Japanese Kanjis.
+* Kanjis are sorted by JLPT levels to help users prepare for their respective JLPT exams.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+**[Stock Alert](https://github.com/ethanswcho/StockAlert)**
+![Stock Alert](https://i1.lensdump.com/i/ZAj58C.png "Stock Alert")
+* Desktop application built with C# and WPF to help people in lower mainland secure their GPUs for retail price.
+* Scrape the websites of local computer shops and alert users when the user-selected models are in stock.

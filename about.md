@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects2
+title: About
 ---
 
 ### Projects

@@ -23,17 +23,17 @@ I am currently looking for full-time opportunities.
 
 ### Projects
 **BlackJack**
-![BlackJack](https://github.com/ethanswcho/ethanswcho.github.io/master/_posts/imgs/blackjack.jpg)
-Android application built with Java and Android Studio to play a classic game of BlackJack on the go.
-Demonstrates in-depth understanding of object oriented programming principles.
-Features robust in-game logic that supports all possible player moves.
+![BlackJack](https://github.com/ethanswcho/ethanswcho.github.io/blob/master/_posts/imgs/blackjack.jpg "Hello")
+* Android application built with Java and Android Studio to play a classic game of BlackJack on the go.
+* Demonstrates in-depth understanding of object oriented programming principles.
+* Features robust in-game logic that supports all possible player moves.
 
 **Kanji Tester**
 ![Kanji Tester](https://github.com/ethanswcho/ethanswcho.github.io/master/_posts/imgs/kanjitester.png)
-Desktop application built with Python to learn and test users' knowledge of Japanese Kanjis.
-Kanjis are sorted by JLPT levels to help users prepare for their JLPT exams.
+* Desktop application built with Python to learn and test users' knowledge of Japanese Kanjis.
+* Kanjis are sorted by JLPT levels to help users prepare for their JLPT exams.
 
 **Stock Alert**
 ![Stock Alert](https://github.com/ethanswcho/ethanswcho.github.io/master/_posts/imgs/stockalert.png)
-Desktop application built with C# and WPF to help people in lower mainland secure their GPUs for retail price.
-Scrape the websites of local computer shops and alert users when user-selected models are in stock.
+* Desktop application built with C# and WPF to help people in lower mainland secure their GPUs for retail price.
+* Scrape the websites of local computer shops and alert users when user-selected models are in stock.

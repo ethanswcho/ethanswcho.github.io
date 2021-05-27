@@ -24,7 +24,7 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-url:          http://ethanswcho.github.io
+url:          http://ethan-cho.com
 baseurl:      /
 projects:     http://ethanswcho.github.io/projects
 github:       https://github.com/ethanswcho

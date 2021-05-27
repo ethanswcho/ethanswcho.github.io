@@ -39,6 +39,5 @@ I am currently looking for full-time opportunities.
 * Desktop application built with C# and WPF to help people in lower mainland secure their GPUs for retail price.
 * Scrape the websites of local computer shops and alert users when the user-selected models are in stock.
 
-<br/>
-<br/>
-Last edited on May 27th, 2021.
+
+*Last edited: May 27th, 2021.*

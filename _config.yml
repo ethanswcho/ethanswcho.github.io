@@ -25,7 +25,7 @@ paginate:         5
 version:          2.1.0
 
 url:          http://ethan-cho.com
-baseurl:      /
+baseurl:      "/"
 projects:     http://ethanswcho.github.io/projects
 github:       https://github.com/ethanswcho
 linkedin:     https://www.linkedin.com/in/ethanswcho

@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 Welcome to my homepage! <br />
-I am Ethan Cho, currently A. software engineer @ Ping Identity in Vancouver, Canada. <br />
+I am Ethan Cho, currently Software Engineer 1 @ Ping Identity in Vancouver, Canada. <br />
 I have a Bachelor of Science in Computer Science from University of British Columbia. <br />
 
 ### Skills
@@ -14,12 +14,12 @@ I have a Bachelor of Science in Computer Science from University of British Colu
 * **Languages**: Bilingual proficiency in English and Korean; Advanced Japanese
 
 ### Work Experience
-* **2021 Sept - Now**: A. Software Engineer @ Ping Identity Vancouver
+* **2021 Sept - Dec 2022**: Software Engineer 1 @ Ping Identity Vancouver
 * **2019 Oct - 2020 Mar**: Software Engineer Intern @ KPMG Ignition
 * **2017 Sep - 2018 Dec**: Sales Associate @ United Parcel Service
 * **2015 Sep - 2017 Jul**: Private Math Tutor
 
-<!--For more information about my technical skills, please check out my [resume](https://drive.google.com/file/d/1qQMBLl4_2uDHtDsP1UyfOWiAtcL81o65/view) and [projects](https://ethanswcho.github.io/projects)-->
+<!--For more information about my technical skills, please check out my [resume](https://drive.google.com/file/d/16RaWgdENKKI-JVtCc9kp3IcC3IJ2ufps/view?usp=sharing) and [projects](https://ethanswcho.github.io/projects)-->
 
 ### Projects
 **[BlackJack](https://github.com/ethanswcho/BlackJack)**

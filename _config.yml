@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Ethan Cho
 #tagline:
-description:      'A. Software Engineer @ Ping Identity Vancouver, Canada. Attentive to detail and strives to write clean, efficient code.'
+description:      'Software Engineer 1 @ Ping Identity Vancouver, Canada. Attentive to detail and strives to write clean, efficient code.'
 
 
 
@@ -29,7 +29,7 @@ baseurl:      "/"
 projects:     http://ethanswcho.github.io/projects
 github:       https://github.com/ethanswcho
 linkedin:     https://www.linkedin.com/in/ethanswcho
-resume:       https://drive.google.com/file/d/1qQMBLl4_2uDHtDsP1UyfOWiAtcL81o65/view?usp=sharing
+resume:       https://drive.google.com/file/d/16RaWgdENKKI-JVtCc9kp3IcC3IJ2ufps/view?usp=sharing
 
 blackjack:    https://github.com/ethanswcho/BlackJack
 kanjitester:  https://github.com/ethanswcho/KanjiTester

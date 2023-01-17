@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 Welcome to my homepage! <br />
-I am Ethan Cho, currently Software Engineer 1 @ Ping Identity in Vancouver, Canada. <br />
+I am Ethan Cho, a software engineer from Vancouver, Canada. <br />
 I have a Bachelor of Science in Computer Science from University of British Columbia. <br />
 
 ### Skills

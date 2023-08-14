@@ -14,7 +14,7 @@ I have a Bachelor of Science in Computer Science from University of British Colu
 * **Languages**: Bilingual proficiency in English and Korean; Advanced Japanese
 
 ### Work Experience
-* **2021 Sept - Apr 2023**: Software Engineer 1 @ Ping Identity Vancouver
+* **2021 Sept - Jan 2023**: Software Engineer 1 @ Ping Identity Vancouver
 * **2019 Oct - 2020 Mar**: Software Engineer Intern @ KPMG Ignition
 * **2017 Sep - 2018 Dec**: Sales Associate @ United Parcel Service
 * **2015 Sep - 2017 Jul**: Private Math Tutor
